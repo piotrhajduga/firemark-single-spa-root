@@ -1,6 +1,6 @@
 [submodule "game"]
 	path = game
-	url = ./game
+	url = https://github.com/piotrhajduga/firemark-single-spa-game.git
 [submodule "header"]
 	path = header
-	url = ./header
+	url = https://github.com/piotrhajduga/firemark-single-spa-header.git
